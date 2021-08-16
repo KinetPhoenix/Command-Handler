@@ -6,10 +6,6 @@
   </a>
 </div>
 
-### If you are you need support on the codes feel free to join the support server!
-
-- Help Command (Youtube Video) : https://www.youtube.com/watch?v=9h5W4-hzts4&t=794s&ab_channel=reconlx
-
 # Command Handler
 
 Why not make your code cleaner and easier to acess when you can, follow these easy steps to use a command handler.
