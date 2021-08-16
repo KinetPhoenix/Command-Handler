@@ -17,7 +17,7 @@ Why not make your code cleaner and easier to acess when you can, follow these ea
 3. When you have it in the code editor run command "npm i ascii-table" in the terminal.
 4. Start up the bot with "node ." in the terminal
    It should look something like this
-   ![node .](https://imgur.com/38RbU8L)
+   ![node .](https://i.imgur.com/38RbU8L.png)
 
 # Contacts
 
